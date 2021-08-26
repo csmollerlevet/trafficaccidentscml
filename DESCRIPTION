@@ -1,0 +1,14 @@
+Package: trafficAccidents
+Type: Package
+Title: Fatal injuries suffered in motor vehicle traffic crashes data
+Version: 0.1.0
+Author: Carla Moller <c.moller-levet@surrey.ac.edu>
+Maintainer: Carla Moller <c.moller-levet@surrey.ac.edu>
+Description: Functions to retrieve the total number of crashes per month per year and plot the location of crashes per state per year.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

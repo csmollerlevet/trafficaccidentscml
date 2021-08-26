@@ -1,4 +1,4 @@
-export("building_R_packages")
+export("trafficaccidentscml")
 
 importFrom("readr", "read_csv")
 importFrom("dplyr", "mutate","select","bind_rows","group_by","summarize","filter")
